@@ -14,6 +14,17 @@ toc = true
 top = false
 +++
 
+
+
+# 2020년도 업무진행
+
+- AD UDL 템플릿 엔진
+  - 고정서식 및 가변서식의 다양한 요건 처리, 스크립트 표현식 지원을 통한 확장성 제공
+  - 행안부 정부24, 레몬헬스케어, 삼성물산, 경기창조혁신센터 등
+- 웹뷰어
+  - 신규 기능 개발 및 고도화
+  - 대림비앤코, 비상교육, 웅진씽크빅, 아이스크림에듀, 한국거래소 등
+
 # 2019년도 업무진행
 
 - AD UDL 템플릿 엔진 개발
@@ -23,7 +34,7 @@ top = false
 - Workflow AD 솔루션 제품의 PDF 프로세싱 엔진 및 API 개발
 - 웹뷰어
     - 출력 품질 및 기능 고도화
-        - [정부24 무설치 민원발급 서비스 인쇄 출력 솔루션](webviewer#정부24 민원발급 서비스 솔루션)
+        - [정부24 무설치 민원발급 서비스 인쇄 출력 솔루션](/docs/profile/webviewer/#jjeonbu24-minhweobbaggeu-ssebisse-ssorussyeo)
     - 서식 입력 처리(필기 등) 관련한 신규 기능 개발 및 주석 공유기능 고도화
         - 삼성물산 등 진행
     - 문제풀이 컨텐츠 처리 기능 고도화
@@ -39,14 +50,14 @@ top = false
   - 멀티플랫폼(데스크탑,모바일,웹)에서 즉시 실행 가능한 결과물 제공
 - 비상교육 차세대 교수학습자료 프로젝트 진행
   - 인터렉티브 기능이 포함된 디지털 교수자료의 웹서비스용 뷰어 개발
-- PDF 문서 기반의 영상(WebRTC) 협업 솔루션, [Aproshe Massanger](http://product.aproshe.com/messenger/index.html){:target="_blank"} 개발
-- 콘텐츠 서비스 플랫폼 [aproshe.com](http://aproshe.com){:target="_blank"} 개발
+- PDF 문서 기반의 영상(WebRTC) 협업 솔루션, [Aproshe Massanger](http://product.aproshe.com/messenger/index.html) 개발
+- 콘텐츠 서비스 플랫폼 [aproshe.com](http://aproshe.com) 개발
 
 
 
 # 2015년~2016년
 
-- 무설치 HTML5 PDF 리더 솔루션, [ezPDF WebViewer](webviewer){:target="_blank"} 개발
+- 무설치 HTML5 PDF 리더 솔루션, [ezPDF WebViewer](/docs/profile/webviewer) 개발
   - 삼성SDS, 대림산업 등 납품
 - 안드로이드 eduPDF 라이브러리 기능 고도화, 제품화
   - 교보문고, yes24, EBS, 큐북 등
@@ -58,8 +69,8 @@ top = false
 
 # 2010~2014년
 
-- 안드로이드 PDF 리더 앱, [ezPDF Reader](ezpdfreader){:target="_blank"} 개발
-- 안드로이드,IOS 스크랩 앱, [CUP](cup){:target="_blank"} 개발
+- 안드로이드 PDF 리더 앱, [ezPDF Reader](/docs/profile/ezpdfreader) 개발
+- 안드로이드,IOS 스크랩 앱, [CUP](/docs/profile/cup) 개발
 - 안드로이드 ezPDF Clear 문제풀이 기능 개발
 - 안드로이드 PDFView 라이브러리 개발. 라이브러리 적용한 앱 개발 지원
   - 대법원, 교보문고, 티스마트러닝, 삼성전자, 삼성생명, 한국이퍼브, 메시아엔씨, y2books, NEC, 언론재단 등
