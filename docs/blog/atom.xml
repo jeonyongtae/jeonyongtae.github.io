@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.jeonyongtae.com/blog</id>
+    <title>전용태 Blog</title>
+    <updated>2022-08-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.jeonyongtae.com/blog"/>
+    <subtitle>전용태 Blog</subtitle>
+    <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시작]]></title>
+        <id>/2022/08/25/index</id>
+        <link href="https://blog.jeonyongtae.com/blog/2022/08/25/index"/>
+        <updated>2022-08-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[어떤 시작]]></summary>
+        <content type="html"><![CDATA[<p>어떤 시작</p><p><img loading="lazy" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="끄적" term="끄적"/>
+    </entry>
+</feed>
