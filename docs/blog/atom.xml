@@ -20,17 +20,4 @@
         </author>
         <category label="끄적" term="끄적"/>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[시작]]></title>
-        <id>/2022/08/25/index</id>
-        <link href="https://blog.jeonyongtae.com/blog/2022/08/25/index"/>
-        <updated>2022-08-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[어떤 시작]]></summary>
-        <content type="html"><![CDATA[<p>어떤 시작</p><p><img loading="lazy" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="끄적" term="끄적"/>
-    </entry>
 </feed>

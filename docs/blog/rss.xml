@@ -17,14 +17,5 @@
             <content:encoded><![CDATA[<p>여름날 출근길</p><p><img loading="lazy" src="/assets/images/20230811_063212-8e4ea2aff55d420efea99529b29ad833.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
             <category>끄적</category>
         </item>
-        <item>
-            <title><![CDATA[시작]]></title>
-            <link>https://blog.jeonyongtae.com/blog/2022/08/25/index</link>
-            <guid>/2022/08/25/index</guid>
-            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[어떤 시작]]></description>
-            <content:encoded><![CDATA[<p>어떤 시작</p><p><img loading="lazy" src="/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>]]></content:encoded>
-            <category>끄적</category>
-        </item>
     </channel>
 </rss>
