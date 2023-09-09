@@ -20,4 +20,16 @@
         </author>
         <category label="끄적" term="끄적"/>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[20230909]]></title>
+        <id>https://blog.jeonyongtae.com/blog/0223/09/09/2index</id>
+        <link href="https://blog.jeonyongtae.com/blog/0223/09/09/2index"/>
+        <updated>0223-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[일요일 오후]]></summary>
+        <content type="html"><![CDATA[<p>일요일 오후</p><p><img loading="lazy" src="/assets/images/20230909_124541-61df29ad7e3b39d4a1959498c9b58407.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+    </entry>
 </feed>
