@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_jeonyongtae_com=self.webpackChunkblog_jeonyongtae_com||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"20230814","permalink":"/blog/2023/08/14/index"},{"title":"20230909","permalink":"/blog/0223/09/09/2index"}]}')}}]);
