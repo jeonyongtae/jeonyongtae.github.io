@@ -12,14 +12,15 @@
         <id>https://blog.jeonyongtae.com/blog/20230812</id>
         <link href="https://blog.jeonyongtae.com/blog/20230812"/>
         <updated>2023-09-12T22:20:44.000Z</updated>
-        <summary type="html"><![CDATA[플레이스테이션 비타]]></summary>
-        <content type="html"><![CDATA[<p>플레이스테이션 비타
-<img loading="lazy" alt="20230812_174546.jpg" src="/assets/images/20230812_174546-90da1ab6eba92bf21be095e3ae623cb8.jpg" width="4000" height="3000" class="img_ev3q"></p><p>닌텐도 스위치
+        <summary type="html"><![CDATA[PSVITA 하늘의 궤적]]></summary>
+        <content type="html"><![CDATA[<p>PSVITA 하늘의 궤적
+<img loading="lazy" alt="20230812_174546.jpg" src="/assets/images/20230812_174546-90da1ab6eba92bf21be095e3ae623cb8.jpg" width="4000" height="3000" class="img_ev3q"></p><p>닌텐도 스위치 슈퍼로봇대전T
 <img loading="lazy" alt="20230812_210549.jpg" src="/assets/images/20230812_210549-32d2caefcd4e1bbe369a539e304feaf2.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
         <author>
             <name>전용태</name>
             <uri>https://blog.jeonyongtae.com</uri>
         </author>
+        <category label="게임" term="게임"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[20230909]]></title>
@@ -32,6 +33,7 @@
             <name>전용태</name>
             <uri>https://blog.jeonyongtae.com</uri>
         </author>
+        <category label="일상" term="일상"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[20230814]]></title>
@@ -44,6 +46,6 @@
             <name>전용태</name>
             <uri>https://blog.jeonyongtae.com</uri>
         </author>
-        <category label="끄적" term="끄적"/>
+        <category label="일상" term="일상"/>
     </entry>
 </feed>

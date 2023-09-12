@@ -13,10 +13,11 @@
             <link>https://blog.jeonyongtae.com/blog/20230812</link>
             <guid>https://blog.jeonyongtae.com/blog/20230812</guid>
             <pubDate>Tue, 12 Sep 2023 22:20:44 GMT</pubDate>
-            <description><![CDATA[플레이스테이션 비타]]></description>
-            <content:encoded><![CDATA[<p>플레이스테이션 비타
-<img loading="lazy" alt="20230812_174546.jpg" src="/assets/images/20230812_174546-90da1ab6eba92bf21be095e3ae623cb8.jpg" width="4000" height="3000" class="img_ev3q"></p><p>닌텐도 스위치
+            <description><![CDATA[PSVITA 하늘의 궤적]]></description>
+            <content:encoded><![CDATA[<p>PSVITA 하늘의 궤적
+<img loading="lazy" alt="20230812_174546.jpg" src="/assets/images/20230812_174546-90da1ab6eba92bf21be095e3ae623cb8.jpg" width="4000" height="3000" class="img_ev3q"></p><p>닌텐도 스위치 슈퍼로봇대전T
 <img loading="lazy" alt="20230812_210549.jpg" src="/assets/images/20230812_210549-32d2caefcd4e1bbe369a539e304feaf2.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <category>게임</category>
         </item>
         <item>
             <title><![CDATA[20230909]]></title>
@@ -25,6 +26,7 @@
             <pubDate>Sat, 09 Sep 2023 13:10:49 GMT</pubDate>
             <description><![CDATA[일요일 오후]]></description>
             <content:encoded><![CDATA[<p>일요일 오후</p><p><img loading="lazy" src="/assets/images/20230909_124541-61df29ad7e3b39d4a1959498c9b58407.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <category>일상</category>
         </item>
         <item>
             <title><![CDATA[20230814]]></title>
@@ -33,7 +35,7 @@
             <pubDate>Mon, 14 Aug 2023 07:11:20 GMT</pubDate>
             <description><![CDATA[여름날 출근길]]></description>
             <content:encoded><![CDATA[<p>여름날 출근길</p><p><img loading="lazy" src="/assets/images/20230811_063212-8e4ea2aff55d420efea99529b29ad833.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
-            <category>끄적</category>
+            <category>일상</category>
         </item>
     </channel>
 </rss>

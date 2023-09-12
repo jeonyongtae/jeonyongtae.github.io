@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_jeonyongtae_com=self.webpackChunkblog_jeonyongtae_com||[]).push([[197],{3006:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/\uc77c\uc0c1","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

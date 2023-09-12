@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_jeonyongtae_com=self.webpackChunkblog_jeonyongtae_com||[]).push([[711],{6495:e=>{e.exports=JSON.parse('{"label":"\ub044\uc801","permalink":"/blog/tags/\ub044\uc801","allTagsPath":"/blog/tags","count":1}')}}]);
