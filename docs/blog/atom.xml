@@ -2,18 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.jeonyongtae.com/blog</id>
     <title>전용태 Blog</title>
-    <updated>2023-09-12T22:17:37.000Z</updated>
+    <updated>2023-09-12T22:20:44.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.jeonyongtae.com/blog"/>
     <subtitle>전용태 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[20230812]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20230812_210549</id>
-        <link href="https://blog.jeonyongtae.com/blog/20230812_210549"/>
-        <updated>2023-09-12T22:17:37.000Z</updated>
-        <summary type="html"><![CDATA[20230812210549.jpg]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="20230812_210549.jpg" src="/assets/images/20230812_210549-32d2caefcd4e1bbe369a539e304feaf2.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <id>https://blog.jeonyongtae.com/blog/20230812</id>
+        <link href="https://blog.jeonyongtae.com/blog/20230812"/>
+        <updated>2023-09-12T22:20:44.000Z</updated>
+        <summary type="html"><![CDATA[플레이스테이션 비타]]></summary>
+        <content type="html"><![CDATA[<p>플레이스테이션 비타
+<img loading="lazy" alt="20230812_174546.jpg" src="/assets/images/20230812_174546-90da1ab6eba92bf21be095e3ae623cb8.jpg" width="4000" height="3000" class="img_ev3q"></p><p>닌텐도 스위치
+<img loading="lazy" alt="20230812_210549.jpg" src="/assets/images/20230812_210549-32d2caefcd4e1bbe369a539e304feaf2.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
         <author>
             <name>전용태</name>
             <uri>https://blog.jeonyongtae.com</uri>

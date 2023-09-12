@@ -4,17 +4,19 @@
         <title>전용태 Blog</title>
         <link>https://blog.jeonyongtae.com/blog</link>
         <description>전용태 Blog</description>
-        <lastBuildDate>Tue, 12 Sep 2023 22:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 22:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[20230812]]></title>
-            <link>https://blog.jeonyongtae.com/blog/20230812_210549</link>
-            <guid>https://blog.jeonyongtae.com/blog/20230812_210549</guid>
-            <pubDate>Tue, 12 Sep 2023 22:17:37 GMT</pubDate>
-            <description><![CDATA[20230812210549.jpg]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" alt="20230812_210549.jpg" src="/assets/images/20230812_210549-32d2caefcd4e1bbe369a539e304feaf2.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <link>https://blog.jeonyongtae.com/blog/20230812</link>
+            <guid>https://blog.jeonyongtae.com/blog/20230812</guid>
+            <pubDate>Tue, 12 Sep 2023 22:20:44 GMT</pubDate>
+            <description><![CDATA[플레이스테이션 비타]]></description>
+            <content:encoded><![CDATA[<p>플레이스테이션 비타
+<img loading="lazy" alt="20230812_174546.jpg" src="/assets/images/20230812_174546-90da1ab6eba92bf21be095e3ae623cb8.jpg" width="4000" height="3000" class="img_ev3q"></p><p>닌텐도 스위치
+<img loading="lazy" alt="20230812_210549.jpg" src="/assets/images/20230812_210549-32d2caefcd4e1bbe369a539e304feaf2.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[20230909]]></title>
