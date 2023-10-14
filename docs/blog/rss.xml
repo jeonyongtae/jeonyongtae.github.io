@@ -4,10 +4,20 @@
         <title>전용태 Blog</title>
         <link>https://blog.jeonyongtae.com/blog</link>
         <description>전용태 Blog</description>
-        <lastBuildDate>Tue, 12 Sep 2023 22:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 09:51:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[20231009]]></title>
+            <link>https://blog.jeonyongtae.com/blog/20231009</link>
+            <guid>https://blog.jeonyongtae.com/blog/20231009</guid>
+            <pubDate>Sat, 14 Oct 2023 09:51:49 GMT</pubDate>
+            <description><![CDATA[제노블레이드 DE]]></description>
+            <content:encoded><![CDATA[<p>제노블레이드 DE
+설산 내려가는 중</p><p><img loading="lazy" src="/assets/images/20231009_201432-9c2291fe46cb6750cbe5340ed54c78ed.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <category>게임</category>
+        </item>
         <item>
             <title><![CDATA[20230812]]></title>
             <link>https://blog.jeonyongtae.com/blog/20230812</link>
