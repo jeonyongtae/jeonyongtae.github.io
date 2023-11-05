@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_jeonyongtae_com=self.webpackChunkblog_jeonyongtae_com||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"\uac8c\uc784","permalink":"/blog/tags/\uac8c\uc784","count":2},{"label":"\uc77c\uc0c1","permalink":"/blog/tags/\uc77c\uc0c1","count":2}]')}}]);

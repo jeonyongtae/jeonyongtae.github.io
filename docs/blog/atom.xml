@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.jeonyongtae.com/blog</id>
     <title>전용태 Blog</title>
-    <updated>2023-10-14T09:51:49.000Z</updated>
+    <updated>2023-11-04T10:15:36.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.jeonyongtae.com/blog"/>
     <subtitle>전용태 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20231028]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20231028</id>
+        <link href="https://blog.jeonyongtae.com/blog/20231028"/>
+        <updated>2023-11-04T10:15:36.000Z</updated>
+        <summary type="html"><![CDATA[2023년]]></summary>
+        <content type="html"><![CDATA[<p>2023년
+가을 출근길</p><p><img loading="lazy" src="/assets/images/20231028_065832-4f0b18484cf4a67d29fec5872ba2a5f7.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="일상" term="일상"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20231009]]></title>
         <id>https://blog.jeonyongtae.com/blog/20231009</id>
