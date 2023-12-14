@@ -4,10 +4,19 @@
         <title>전용태 Blog</title>
         <link>https://blog.jeonyongtae.com/blog</link>
         <description>전용태 Blog</description>
-        <lastBuildDate>Sat, 04 Nov 2023 10:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 01:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[20231212]]></title>
+            <link>https://blog.jeonyongtae.com/blog/20231212</link>
+            <guid>https://blog.jeonyongtae.com/blog/20231212</guid>
+            <pubDate>Thu, 14 Dec 2023 01:28:45 GMT</pubDate>
+            <description><![CDATA[플스5 SSD 장착]]></description>
+            <content:encoded><![CDATA[<p>플스5 SSD 장착</p><ul><li>SSD + 방열판(빙하6) 결합</li><li>플스5 + SSD 결합</li></ul><p>너무 귀찮았지만 해냈다.</p><p><img loading="lazy" src="/assets/images/20231212_070412-79ebb96d69bfd9a9e0ab6850c260774a.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <category>게임</category>
+        </item>
         <item>
             <title><![CDATA[20231028]]></title>
             <link>https://blog.jeonyongtae.com/blog/20231028</link>
