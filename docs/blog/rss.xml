@@ -4,10 +4,21 @@
         <title>전용태 Blog</title>
         <link>https://blog.jeonyongtae.com/blog</link>
         <description>전용태 Blog</description>
-        <lastBuildDate>Sun, 31 Dec 2023 07:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 07:49:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[20231202]]></title>
+            <link>https://blog.jeonyongtae.com/blog/20231202</link>
+            <guid>https://blog.jeonyongtae.com/blog/20231202</guid>
+            <pubDate>Sun, 31 Dec 2023 07:49:23 GMT</pubDate>
+            <description><![CDATA[팔각도]]></description>
+            <content:encoded><![CDATA[<p>팔각도
+닭갈비구이 + 뭔가 변화를 꾀한 느낌
+닭고기를 너무 좋아하지는 않는 나에게는 그냥저냥이다.</p><p><img loading="lazy" src="/assets/images/20231202_194109-c5604bdb5338aa6d3fdfff6452e4968b.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <category>음식</category>
+        </item>
         <item>
             <title><![CDATA[20231213]]></title>
             <link>https://blog.jeonyongtae.com/blog/20231213</link>
