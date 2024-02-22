@@ -4,10 +4,23 @@
         <title>전용태 Blog</title>
         <link>https://blog.jeonyongtae.com/blog</link>
         <description>전용태 Blog</description>
-        <lastBuildDate>Mon, 12 Feb 2024 12:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 00:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[20240222]]></title>
+            <link>https://blog.jeonyongtae.com/blog/20240222</link>
+            <guid>https://blog.jeonyongtae.com/blog/20240222</guid>
+            <pubDate>Thu, 22 Feb 2024 00:38:28 GMT</pubDate>
+            <description><![CDATA[겨울의 인사.]]></description>
+            <content:encoded><![CDATA[<p>겨울의 인사.
+이제 안녕! 하는 것 같다.</p><p><img loading="lazy" src="/assets/images/20240222_060156-4e3ff0415bc83f2e49db9b160ceaf7ca.jpg" width="4000" height="3000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20240222_060230-5742df6eb85cd2f02e9acd12c37eddd4.jpg" width="4000" height="3000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20240222_071350-f45bb8ec729ce146f391044a3cdd36ba.jpg" width="4000" height="3000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20240222_071656-9065b193aebf71aa77a0c3ad83812473.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <category>일상</category>
+        </item>
         <item>
             <title><![CDATA[20240101]]></title>
             <link>https://blog.jeonyongtae.com/blog/20240101</link>

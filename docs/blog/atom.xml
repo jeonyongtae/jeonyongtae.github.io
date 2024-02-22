@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.jeonyongtae.com/blog</id>
     <title>전용태 Blog</title>
-    <updated>2024-02-12T12:20:04.000Z</updated>
+    <updated>2024-02-22T00:38:28.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.jeonyongtae.com/blog"/>
     <subtitle>전용태 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20240222]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20240222</id>
+        <link href="https://blog.jeonyongtae.com/blog/20240222"/>
+        <updated>2024-02-22T00:38:28.000Z</updated>
+        <summary type="html"><![CDATA[겨울의 인사.]]></summary>
+        <content type="html"><![CDATA[<p>겨울의 인사.
+이제 안녕! 하는 것 같다.</p><p><img loading="lazy" src="/assets/images/20240222_060156-4e3ff0415bc83f2e49db9b160ceaf7ca.jpg" width="4000" height="3000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20240222_060230-5742df6eb85cd2f02e9acd12c37eddd4.jpg" width="4000" height="3000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20240222_071350-f45bb8ec729ce146f391044a3cdd36ba.jpg" width="4000" height="3000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20240222_071656-9065b193aebf71aa77a0c3ad83812473.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="일상" term="일상"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20240101]]></title>
         <id>https://blog.jeonyongtae.com/blog/20240101</id>
