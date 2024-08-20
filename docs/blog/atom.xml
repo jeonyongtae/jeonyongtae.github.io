@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.jeonyongtae.com/blog</id>
     <title>흔적 Blog</title>
-    <updated>2024-08-20T00:03:29.000Z</updated>
+    <updated>2024-08-20T23:37:44.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.jeonyongtae.com/blog"/>
     <subtitle>흔적 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20230821]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20240821</id>
+        <link href="https://blog.jeonyongtae.com/blog/20240821"/>
+        <updated>2024-08-20T23:37:44.000Z</updated>
+        <summary type="html"><![CDATA[여름의 끝무렵(아마도)]]></summary>
+        <content type="html"><![CDATA[<p>여름의 끝무렵(아마도)
+태풍은 약해졌지만 비를 많이 뿌려놓았다.</p><p><img loading="lazy" src="/assets/images/20240821_080820-345ffcba553425d0d363516d9dd9fdc4.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="일상" term="일상"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AFK 새로운 여정]]></title>
         <id>https://blog.jeonyongtae.com/blog/AFK-새로운-여정</id>

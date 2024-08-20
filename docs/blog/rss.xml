@@ -4,10 +4,20 @@
         <title>흔적 Blog</title>
         <link>https://blog.jeonyongtae.com/blog</link>
         <description>흔적 Blog</description>
-        <lastBuildDate>Tue, 20 Aug 2024 00:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 23:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[20230821]]></title>
+            <link>https://blog.jeonyongtae.com/blog/20240821</link>
+            <guid>https://blog.jeonyongtae.com/blog/20240821</guid>
+            <pubDate>Tue, 20 Aug 2024 23:37:44 GMT</pubDate>
+            <description><![CDATA[여름의 끝무렵(아마도)]]></description>
+            <content:encoded><![CDATA[<p>여름의 끝무렵(아마도)
+태풍은 약해졌지만 비를 많이 뿌려놓았다.</p><p><img loading="lazy" src="/assets/images/20240821_080820-345ffcba553425d0d363516d9dd9fdc4.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <category>일상</category>
+        </item>
         <item>
             <title><![CDATA[AFK 새로운 여정]]></title>
             <link>https://blog.jeonyongtae.com/blog/AFK-새로운-여정</link>
