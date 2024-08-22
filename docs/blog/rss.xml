@@ -4,10 +4,21 @@
         <title>흔적 Blog</title>
         <link>https://blog.jeonyongtae.com/blog</link>
         <description>흔적 Blog</description>
-        <lastBuildDate>Tue, 20 Aug 2024 23:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 23:46:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[20230823]]></title>
+            <link>https://blog.jeonyongtae.com/blog/20240823</link>
+            <guid>https://blog.jeonyongtae.com/blog/20240823</guid>
+            <pubDate>Thu, 22 Aug 2024 23:46:38 GMT</pubDate>
+            <description><![CDATA[20년 전에 땄던 자격증. 방 정리를 하던 중에 눈에 띄었다.]]></description>
+            <content:encoded><![CDATA[<p>20년 전에 땄던 자격증. 방 정리를 하던 중에 눈에 띄었다.<br>
+<!-- -->SUN 이라는 회사가 이제 없어졌으니, 그 시간에만 할 수 있었던 일을 했던 셈이다.<br>
+<!-- -->기간 한정 레어 아이템 같은 느낌. 나쁘지 않네.  </p><p><img loading="lazy" src="/assets/images/20240823_053916-942e020275dc60346905e6aea706d3e7.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <category>일상</category>
+        </item>
         <item>
             <title><![CDATA[20230821]]></title>
             <link>https://blog.jeonyongtae.com/blog/20240821</link>

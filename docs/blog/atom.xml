@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.jeonyongtae.com/blog</id>
     <title>흔적 Blog</title>
-    <updated>2024-08-20T23:37:44.000Z</updated>
+    <updated>2024-08-22T23:46:38.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.jeonyongtae.com/blog"/>
     <subtitle>흔적 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20230823]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20240823</id>
+        <link href="https://blog.jeonyongtae.com/blog/20240823"/>
+        <updated>2024-08-22T23:46:38.000Z</updated>
+        <summary type="html"><![CDATA[20년 전에 땄던 자격증. 방 정리를 하던 중에 눈에 띄었다.]]></summary>
+        <content type="html"><![CDATA[<p>20년 전에 땄던 자격증. 방 정리를 하던 중에 눈에 띄었다.<br>
+<!-- -->SUN 이라는 회사가 이제 없어졌으니, 그 시간에만 할 수 있었던 일을 했던 셈이다.<br>
+<!-- -->기간 한정 레어 아이템 같은 느낌. 나쁘지 않네.  </p><p><img loading="lazy" src="/assets/images/20240823_053916-942e020275dc60346905e6aea706d3e7.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="일상" term="일상"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20230821]]></title>
         <id>https://blog.jeonyongtae.com/blog/20240821</id>
