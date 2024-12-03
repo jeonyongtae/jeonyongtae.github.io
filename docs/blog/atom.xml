@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.jeonyongtae.com/blog</id>
     <title>흔적 Blog</title>
-    <updated>2024-08-22T23:46:38.000Z</updated>
+    <updated>2024-12-03T01:22:52.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.jeonyongtae.com/blog"/>
     <subtitle>흔적 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ARCANE]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20241203-arcane</id>
+        <link href="https://blog.jeonyongtae.com/blog/20241203-arcane"/>
+        <updated>2024-12-03T01:22:52.000Z</updated>
+        <summary type="html"><![CDATA[아케인이 시즌2로 완결됐다.]]></summary>
+        <content type="html"><![CDATA[<p>아케인이 시즌2로 완결됐다.<br>
+<!-- -->징크스라는 캐릭터가 매력적이었고,<br>
+<!-- -->그 밖에도 여러 캐릭터들의 변화와 성장을 끊임없이 늘어놓아<br>
+<!-- -->끝까지 보게 하는 몰입을 만들어낸 것 같다.</p><p><img loading="lazy" src="/assets/images/arcane_jinx-1ed3e044848eed9fa85c59156d5d8bf0.webp" width="960" height="1200" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="애니메이션" term="애니메이션"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20230823]]></title>
         <id>https://blog.jeonyongtae.com/blog/20240823</id>

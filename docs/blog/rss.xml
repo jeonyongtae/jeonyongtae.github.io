@@ -4,10 +4,22 @@
         <title>흔적 Blog</title>
         <link>https://blog.jeonyongtae.com/blog</link>
         <description>흔적 Blog</description>
-        <lastBuildDate>Thu, 22 Aug 2024 23:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 01:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[ARCANE]]></title>
+            <link>https://blog.jeonyongtae.com/blog/20241203-arcane</link>
+            <guid>https://blog.jeonyongtae.com/blog/20241203-arcane</guid>
+            <pubDate>Tue, 03 Dec 2024 01:22:52 GMT</pubDate>
+            <description><![CDATA[아케인이 시즌2로 완결됐다.]]></description>
+            <content:encoded><![CDATA[<p>아케인이 시즌2로 완결됐다.<br>
+<!-- -->징크스라는 캐릭터가 매력적이었고,<br>
+<!-- -->그 밖에도 여러 캐릭터들의 변화와 성장을 끊임없이 늘어놓아<br>
+<!-- -->끝까지 보게 하는 몰입을 만들어낸 것 같다.</p><p><img loading="lazy" src="/assets/images/arcane_jinx-1ed3e044848eed9fa85c59156d5d8bf0.webp" width="960" height="1200" class="img_ev3q"></p>]]></content:encoded>
+            <category>애니메이션</category>
+        </item>
         <item>
             <title><![CDATA[20230823]]></title>
             <link>https://blog.jeonyongtae.com/blog/20240823</link>
