@@ -4,10 +4,20 @@
         <title>흔적 Blog</title>
         <link>https://blog.jeonyongtae.com/blog</link>
         <description>흔적 Blog</description>
-        <lastBuildDate>Tue, 03 Dec 2024 01:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 04:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[하늘의 궤적 컬렉션]]></title>
+            <link>https://blog.jeonyongtae.com/blog/20250220</link>
+            <guid>https://blog.jeonyongtae.com/blog/20250220</guid>
+            <pubDate>Wed, 26 Feb 2025 04:43:25 GMT</pubDate>
+            <description><![CDATA[하늘의 궤적 2편인 SC만 패키지를 구하지 못했었는데 이번에 구했다.]]></description>
+            <content:encoded><![CDATA[<p>하늘의 궤적 2편인 SC만 패키지를 구하지 못했었는데 이번에 구했다.<br>
+<!-- -->기쁘다.</p><p><img loading="lazy" src="/assets/images/20250220_224207-3c4593f99b554dcf59a37198aa35dec2.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content:encoded>
+            <category>게임</category>
+        </item>
         <item>
             <title><![CDATA[ARCANE]]></title>
             <link>https://blog.jeonyongtae.com/blog/20241203-arcane</link>
