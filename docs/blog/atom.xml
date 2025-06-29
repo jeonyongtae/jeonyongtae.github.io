@@ -2,47 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.jeonyongtae.com/blog</id>
     <title>흔적 Blog</title>
-    <updated>2025-02-26T07:20:07.000Z</updated>
+    <updated>2025-06-29T04:34:26.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.jeonyongtae.com/blog"/>
     <subtitle>흔적 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[20230814]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20230814</id>
-        <link href="https://blog.jeonyongtae.com/blog/20230814"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[여름날 출근길]]></summary>
-        <content type="html"><![CDATA[<p>여름날 출근길</p><p><img loading="lazy" src="/assets/images/20230811_063212-8e4ea2aff55d420efea99529b29ad833.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="일상" term="일상"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20231028]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20231028</id>
-        <link href="https://blog.jeonyongtae.com/blog/20231028"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[2023년]]></summary>
-        <content type="html"><![CDATA[<p>2023년
-가을 출근길</p><p><img loading="lazy" src="/assets/images/20231028_065832-4f0b18484cf4a67d29fec5872ba2a5f7.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="일상" term="일상"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20230812]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20230812</id>
-        <link href="https://blog.jeonyongtae.com/blog/20230812"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[PSVITA 하늘의 궤적]]></summary>
-        <content type="html"><![CDATA[<p>PSVITA 하늘의 궤적
-<img loading="lazy" alt="20230812_174546.jpg" src="/assets/images/20230812_174546-90da1ab6eba92bf21be095e3ae623cb8.jpg" width="4000" height="3000" class="img_ev3q"></p><p>닌텐도 스위치 슈퍼로봇대전T
-<img loading="lazy" alt="20230812_210549.jpg" src="/assets/images/20230812_210549-32d2caefcd4e1bbe369a539e304feaf2.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <title type="html"><![CDATA[하늘의 궤적 컬렉션]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20250220</id>
+        <link href="https://blog.jeonyongtae.com/blog/20250220"/>
+        <updated>2025-06-29T04:34:26.270Z</updated>
+        <summary type="html"><![CDATA[하늘의 궤적 2편인 SC만 패키지를 구하지 못했었는데 이번에 구했다.]]></summary>
+        <content type="html"><![CDATA[<p>하늘의 궤적 2편인 SC만 패키지를 구하지 못했었는데 이번에 구했다.<br>
+<!-- -->기쁘다.</p><p><img loading="lazy" src="/assets/images/20250220_224207-3c4593f99b554dcf59a37198aa35dec2.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
         <author>
             <name>전용태</name>
             <uri>https://blog.jeonyongtae.com</uri>
@@ -50,136 +22,26 @@
         <category label="게임" term="게임"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20231202]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20231202</id>
-        <link href="https://blog.jeonyongtae.com/blog/20231202"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[팔각도]]></summary>
-        <content type="html"><![CDATA[<p>팔각도<br>
-<!-- -->닭갈비구이 + 뭔가 변화를 꾀한 느낌<br>
-<!-- -->닭고기를 너무 좋아하지는 않는 나에게는 그냥저냥이다.</p><p><img loading="lazy" src="/assets/images/20231202_194109-c5604bdb5338aa6d3fdfff6452e4968b.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <title type="html"><![CDATA[ARCANE]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20241203-arcane</id>
+        <link href="https://blog.jeonyongtae.com/blog/20241203-arcane"/>
+        <updated>2025-06-29T04:34:26.240Z</updated>
+        <summary type="html"><![CDATA[아케인이 시즌2로 완결됐다.]]></summary>
+        <content type="html"><![CDATA[<p>아케인이 시즌2로 완결됐다.<br>
+<!-- -->징크스라는 캐릭터가 매력적이었고,<br>
+<!-- -->그 밖에도 여러 캐릭터들의 변화와 성장을 끊임없이 늘어놓아<br>
+<!-- -->끝까지 보게 하는 몰입을 만들어낸 것 같다.</p><p><img loading="lazy" src="/assets/images/arcane_jinx-1ed3e044848eed9fa85c59156d5d8bf0.webp" width="960" height="1200" class="img_ev3q"></p>]]></content>
         <author>
             <name>전용태</name>
             <uri>https://blog.jeonyongtae.com</uri>
         </author>
-        <category label="음식" term="음식"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20230909]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20230909</id>
-        <link href="https://blog.jeonyongtae.com/blog/20230909"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[일요일 오후]]></summary>
-        <content type="html"><![CDATA[<p>일요일 오후</p><p><img loading="lazy" src="/assets/images/20230909_124541-61df29ad7e3b39d4a1959498c9b58407.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="일상" term="일상"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20231009]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20231009</id>
-        <link href="https://blog.jeonyongtae.com/blog/20231009"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[제노블레이드 DE]]></summary>
-        <content type="html"><![CDATA[<p>제노블레이드 DE
-설산 내려가는 중</p><p><img loading="lazy" src="/assets/images/20231009_201432-9c2291fe46cb6750cbe5340ed54c78ed.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="게임" term="게임"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20231212]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20231212</id>
-        <link href="https://blog.jeonyongtae.com/blog/20231212"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[플스5 SSD 장착]]></summary>
-        <content type="html"><![CDATA[<p>플스5 SSD 장착</p><ul><li>SSD + 방열판(빙하6) 결합</li><li>플스5 + SSD 결합</li></ul><p>너무 귀찮았지만 끝냈다.</p><p><img loading="lazy" src="/assets/images/20231212_070412-79ebb96d69bfd9a9e0ab6850c260774a.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="게임" term="게임"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20231212]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20231207</id>
-        <link href="https://blog.jeonyongtae.com/blog/20231207"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[참 오랜만이구나.]]></summary>
-        <content type="html"><![CDATA[<p>참 오랜만이구나.
-소양강 청평사</p><p><img loading="lazy" src="/assets/images/20231207_161152-5abb1f2f5358c7545db24eb4d67dc07e.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="여행" term="여행"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20231213]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20231213</id>
-        <link href="https://blog.jeonyongtae.com/blog/20231213"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[살기 위해 필요한 것들 중 하나]]></summary>
-        <content type="html"><![CDATA[<p>살기 위해 필요한 것들 중 하나</p><p><img loading="lazy" src="/assets/images/20231213_074454-28a1298f15a79275c56e5d2914f787d9.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="음식" term="음식"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20240101]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20240101</id>
-        <link href="https://blog.jeonyongtae.com/blog/20240101"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[2024년 시작]]></summary>
-        <content type="html"><![CDATA[<p>2024년 시작</p><p><img loading="lazy" src="/assets/images/20240101_162427-c001b13775192297b067c4bc3c2bb45e.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="일상" term="일상"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20240222]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20240222</id>
-        <link href="https://blog.jeonyongtae.com/blog/20240222"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[겨울의 인사.]]></summary>
-        <content type="html"><![CDATA[<p>겨울의 인사.
-이제 안녕! 하는 것 같다.</p><p><img loading="lazy" src="/assets/images/20240222_060156-4e3ff0415bc83f2e49db9b160ceaf7ca.jpg" width="4000" height="3000" class="img_ev3q">
-<img loading="lazy" src="/assets/images/20240222_060230-5742df6eb85cd2f02e9acd12c37eddd4.jpg" width="4000" height="3000" class="img_ev3q">
-<img loading="lazy" src="/assets/images/20240222_071350-f45bb8ec729ce146f391044a3cdd36ba.jpg" width="4000" height="3000" class="img_ev3q">
-<img loading="lazy" src="/assets/images/20240222_071656-9065b193aebf71aa77a0c3ad83812473.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="일상" term="일상"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AFK 새로운 여정]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20240818-AFK-새로운-여정</id>
-        <link href="https://blog.jeonyongtae.com/blog/20240818-AFK-새로운-여정"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[새로 출시한 게임. 메이라는 캐릭터를 챔피언+ 등급으로 만들었다.]]></summary>
-        <content type="html"><![CDATA[<p>새로 출시한 게임. 메이라는 캐릭터를 챔피언+ 등급으로 만들었다.<br>
-<!-- -->이제 그만해야겠다.</p><p><img loading="lazy" src="/assets/images/Screenshot_20240818_142447_AFK Journey-aea49a0206708be037e6a8adcb3434c5.jpg" width="1440" height="3120" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="게임" term="게임"/>
+        <category label="애니메이션" term="애니메이션"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[20230823]]></title>
         <id>https://blog.jeonyongtae.com/blog/20240823</id>
         <link href="https://blog.jeonyongtae.com/blog/20240823"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
+        <updated>2025-06-29T04:34:26.225Z</updated>
         <summary type="html"><![CDATA[20년 전에 땄던 자격증. 방 정리를 하던 중에 눈에 띄었다.]]></summary>
         <content type="html"><![CDATA[<p>20년 전에 땄던 자격증. 방 정리를 하던 중에 눈에 띄었다.<br>
 <!-- -->SUN 이라는 회사가 이제 없어졌으니, 그 시간에만 할 수 있었던 일을 했던 셈이다.<br>
@@ -194,7 +56,7 @@
         <title type="html"><![CDATA[20230821]]></title>
         <id>https://blog.jeonyongtae.com/blog/20240821</id>
         <link href="https://blog.jeonyongtae.com/blog/20240821"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
+        <updated>2025-06-29T04:34:26.197Z</updated>
         <summary type="html"><![CDATA[여름의 끝무렵(아마도)]]></summary>
         <content type="html"><![CDATA[<p>여름의 끝무렵(아마도)<br>
 <!-- -->태풍은 약해졌지만 비를 많이 뿌려놓았다.</p><p><img loading="lazy" src="/assets/images/20240821_080820-345ffcba553425d0d363516d9dd9fdc4.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
@@ -205,29 +67,167 @@
         <category label="일상" term="일상"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARCANE]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20241203-arcane</id>
-        <link href="https://blog.jeonyongtae.com/blog/20241203-arcane"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[아케인이 시즌2로 완결됐다.]]></summary>
-        <content type="html"><![CDATA[<p>아케인이 시즌2로 완결됐다.<br>
-<!-- -->징크스라는 캐릭터가 매력적이었고,<br>
-<!-- -->그 밖에도 여러 캐릭터들의 변화와 성장을 끊임없이 늘어놓아<br>
-<!-- -->끝까지 보게 하는 몰입을 만들어낸 것 같다.</p><p><img loading="lazy" src="/assets/images/arcane_jinx-1ed3e044848eed9fa85c59156d5d8bf0.webp" width="960" height="1200" class="img_ev3q"></p>]]></content>
+        <title type="html"><![CDATA[AFK 새로운 여정]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20240818-AFK-새로운-여정</id>
+        <link href="https://blog.jeonyongtae.com/blog/20240818-AFK-새로운-여정"/>
+        <updated>2025-06-29T04:34:26.157Z</updated>
+        <summary type="html"><![CDATA[새로 출시한 게임. 메이라는 캐릭터를 챔피언+ 등급으로 만들었다.]]></summary>
+        <content type="html"><![CDATA[<p>새로 출시한 게임. 메이라는 캐릭터를 챔피언+ 등급으로 만들었다.<br>
+<!-- -->이제 그만해야겠다.</p><p><img loading="lazy" src="/assets/images/Screenshot_20240818_142447_AFK Journey-aea49a0206708be037e6a8adcb3434c5.jpg" width="1440" height="3120" class="img_ev3q"></p>]]></content>
         <author>
             <name>전용태</name>
             <uri>https://blog.jeonyongtae.com</uri>
         </author>
-        <category label="애니메이션" term="애니메이션"/>
+        <category label="게임" term="게임"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하늘의 궤적 컬렉션]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20250220</id>
-        <link href="https://blog.jeonyongtae.com/blog/20250220"/>
-        <updated>2025-02-26T07:20:07.000Z</updated>
-        <summary type="html"><![CDATA[하늘의 궤적 2편인 SC만 패키지를 구하지 못했었는데 이번에 구했다.]]></summary>
-        <content type="html"><![CDATA[<p>하늘의 궤적 2편인 SC만 패키지를 구하지 못했었는데 이번에 구했다.<br>
-<!-- -->기쁘다.</p><p><img loading="lazy" src="/assets/images/20250220_224207-3c4593f99b554dcf59a37198aa35dec2.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <title type="html"><![CDATA[20240222]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20240222</id>
+        <link href="https://blog.jeonyongtae.com/blog/20240222"/>
+        <updated>2025-06-29T04:34:26.151Z</updated>
+        <summary type="html"><![CDATA[겨울의 인사.]]></summary>
+        <content type="html"><![CDATA[<p>겨울의 인사.
+이제 안녕! 하는 것 같다.</p><p><img loading="lazy" src="/assets/images/20240222_060156-4e3ff0415bc83f2e49db9b160ceaf7ca.jpg" width="4000" height="3000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20240222_060230-5742df6eb85cd2f02e9acd12c37eddd4.jpg" width="4000" height="3000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20240222_071350-f45bb8ec729ce146f391044a3cdd36ba.jpg" width="4000" height="3000" class="img_ev3q">
+<img loading="lazy" src="/assets/images/20240222_071656-9065b193aebf71aa77a0c3ad83812473.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="일상" term="일상"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20240101]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20240101</id>
+        <link href="https://blog.jeonyongtae.com/blog/20240101"/>
+        <updated>2025-06-29T04:34:26.073Z</updated>
+        <summary type="html"><![CDATA[2024년 시작]]></summary>
+        <content type="html"><![CDATA[<p>2024년 시작</p><p><img loading="lazy" src="/assets/images/20240101_162427-c001b13775192297b067c4bc3c2bb45e.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="일상" term="일상"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20231213]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20231213</id>
+        <link href="https://blog.jeonyongtae.com/blog/20231213"/>
+        <updated>2025-06-29T04:34:26.048Z</updated>
+        <summary type="html"><![CDATA[살기 위해 필요한 것들 중 하나]]></summary>
+        <content type="html"><![CDATA[<p>살기 위해 필요한 것들 중 하나</p><p><img loading="lazy" src="/assets/images/20231213_074454-28a1298f15a79275c56e5d2914f787d9.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="음식" term="음식"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20231212]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20231212</id>
+        <link href="https://blog.jeonyongtae.com/blog/20231212"/>
+        <updated>2025-06-29T04:34:26.013Z</updated>
+        <summary type="html"><![CDATA[플스5 SSD 장착]]></summary>
+        <content type="html"><![CDATA[<p>플스5 SSD 장착</p><ul><li>SSD + 방열판(빙하6) 결합</li><li>플스5 + SSD 결합</li></ul><p>너무 귀찮았지만 끝냈다.</p><p><img loading="lazy" src="/assets/images/20231212_070412-79ebb96d69bfd9a9e0ab6850c260774a.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="게임" term="게임"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20231212]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20231207</id>
+        <link href="https://blog.jeonyongtae.com/blog/20231207"/>
+        <updated>2025-06-29T04:34:26.002Z</updated>
+        <summary type="html"><![CDATA[참 오랜만이구나.]]></summary>
+        <content type="html"><![CDATA[<p>참 오랜만이구나.
+소양강 청평사</p><p><img loading="lazy" src="/assets/images/20231207_161152-5abb1f2f5358c7545db24eb4d67dc07e.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="여행" term="여행"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20231202]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20231202</id>
+        <link href="https://blog.jeonyongtae.com/blog/20231202"/>
+        <updated>2025-06-29T04:34:25.982Z</updated>
+        <summary type="html"><![CDATA[팔각도]]></summary>
+        <content type="html"><![CDATA[<p>팔각도<br>
+<!-- -->닭갈비구이 + 뭔가 변화를 꾀한 느낌<br>
+<!-- -->닭고기를 너무 좋아하지는 않는 나에게는 그냥저냥이다.</p><p><img loading="lazy" src="/assets/images/20231202_194109-c5604bdb5338aa6d3fdfff6452e4968b.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="음식" term="음식"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20231028]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20231028</id>
+        <link href="https://blog.jeonyongtae.com/blog/20231028"/>
+        <updated>2025-06-29T04:34:25.950Z</updated>
+        <summary type="html"><![CDATA[2023년]]></summary>
+        <content type="html"><![CDATA[<p>2023년
+가을 출근길</p><p><img loading="lazy" src="/assets/images/20231028_065832-4f0b18484cf4a67d29fec5872ba2a5f7.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="일상" term="일상"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20231009]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20231009</id>
+        <link href="https://blog.jeonyongtae.com/blog/20231009"/>
+        <updated>2025-06-29T04:34:25.919Z</updated>
+        <summary type="html"><![CDATA[제노블레이드 DE]]></summary>
+        <content type="html"><![CDATA[<p>제노블레이드 DE
+설산 내려가는 중</p><p><img loading="lazy" src="/assets/images/20231009_201432-9c2291fe46cb6750cbe5340ed54c78ed.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="게임" term="게임"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20230909]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20230909</id>
+        <link href="https://blog.jeonyongtae.com/blog/20230909"/>
+        <updated>2025-06-29T04:34:25.874Z</updated>
+        <summary type="html"><![CDATA[일요일 오후]]></summary>
+        <content type="html"><![CDATA[<p>일요일 오후</p><p><img loading="lazy" src="/assets/images/20230909_124541-61df29ad7e3b39d4a1959498c9b58407.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="일상" term="일상"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20230814]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20230814</id>
+        <link href="https://blog.jeonyongtae.com/blog/20230814"/>
+        <updated>2025-06-29T04:34:25.856Z</updated>
+        <summary type="html"><![CDATA[여름날 출근길]]></summary>
+        <content type="html"><![CDATA[<p>여름날 출근길</p><p><img loading="lazy" src="/assets/images/20230811_063212-8e4ea2aff55d420efea99529b29ad833.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="일상" term="일상"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20230812]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20230812</id>
+        <link href="https://blog.jeonyongtae.com/blog/20230812"/>
+        <updated>2025-06-29T04:34:25.819Z</updated>
+        <summary type="html"><![CDATA[PSVITA 하늘의 궤적]]></summary>
+        <content type="html"><![CDATA[<p>PSVITA 하늘의 궤적
+<img loading="lazy" alt="20230812_174546.jpg" src="/assets/images/20230812_174546-90da1ab6eba92bf21be095e3ae623cb8.jpg" width="4000" height="3000" class="img_ev3q"></p><p>닌텐도 스위치 슈퍼로봇대전T
+<img loading="lazy" alt="20230812_210549.jpg" src="/assets/images/20230812_210549-32d2caefcd4e1bbe369a539e304feaf2.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
         <author>
             <name>전용태</name>
             <uri>https://blog.jeonyongtae.com</uri>
