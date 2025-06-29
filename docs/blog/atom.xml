@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.jeonyongtae.com/blog</id>
     <title>흔적 Blog</title>
-    <updated>2025-06-29T04:34:26.270Z</updated>
+    <updated>2025-06-29T05:03:24.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.jeonyongtae.com/blog"/>
     <subtitle>흔적 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025 장마]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20250629</id>
+        <link href="https://blog.jeonyongtae.com/blog/20250629"/>
+        <updated>2025-06-29T05:03:24.304Z</updated>
+        <summary type="html"><![CDATA[장마. 여름.]]></summary>
+        <content type="html"><![CDATA[<p>장마. 여름.</p><p><img loading="lazy" src="/assets/images/20250620_063906-7db7892390c5847fa3cf4c2456d83895.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="일상" term="일상"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하늘의 궤적 컬렉션]]></title>
         <id>https://blog.jeonyongtae.com/blog/20250220</id>
