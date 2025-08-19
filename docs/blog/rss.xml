@@ -4,10 +4,24 @@
         <title>흔적 Blog</title>
         <link>https://blog.jeonyongtae.com/blog</link>
         <description>흔적 Blog</description>
-        <lastBuildDate>Sun, 10 Aug 2025 23:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 23:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[삼체3]]></title>
+            <link>https://blog.jeonyongtae.com/blog/20250820-삼체3</link>
+            <guid>https://blog.jeonyongtae.com/blog/20250820-삼체3</guid>
+            <pubDate>Tue, 19 Aug 2025 23:16:17 GMT</pubDate>
+            <description><![CDATA[삼체3을 읽고 있다.]]></description>
+            <content:encoded><![CDATA[<p>삼체3을 읽고 있다.<br>
+<!-- -->상황설정과 전개가 흥미로워 초중반은 아주 몰입감있게 읽었다.<br>
+<!-- -->문제를 던져놓고 특출난 주인공이 해결책을 발견하고 극복해가는 구조가 추리소설스럽기도 무협지스럽기도 한 면이 있지만, 그게 재미의 반을 넘는 것 같다.<br>
+<!-- -->극적으로 바뀌는 상황 속 인류라는 군집에 대한 사고실험같기도 한 서사들은 은하영웅전설을 생각나게도 한다.<br>
+<!-- -->하지만 끝으로 갈 수록 캐릭터 매력과 당위성과 개연성이 내 기준에 맞질 않아져서...
+끝까지 마저 읽을지는 잘 모르겠다.</p>]]></content:encoded>
+            <category>소설</category>
+        </item>
         <item>
             <title><![CDATA[지 이터널]]></title>
             <link>https://blog.jeonyongtae.com/blog/20250811-지-이터널</link>

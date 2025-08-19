@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.jeonyongtae.com/blog</id>
     <title>흔적 Blog</title>
-    <updated>2025-08-10T23:41:17.000Z</updated>
+    <updated>2025-08-19T23:16:17.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.jeonyongtae.com/blog"/>
     <subtitle>흔적 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼체3]]></title>
+        <id>https://blog.jeonyongtae.com/blog/20250820-삼체3</id>
+        <link href="https://blog.jeonyongtae.com/blog/20250820-삼체3"/>
+        <updated>2025-08-19T23:16:17.000Z</updated>
+        <summary type="html"><![CDATA[삼체3을 읽고 있다.]]></summary>
+        <content type="html"><![CDATA[<p>삼체3을 읽고 있다.<br>
+<!-- -->상황설정과 전개가 흥미로워 초중반은 아주 몰입감있게 읽었다.<br>
+<!-- -->문제를 던져놓고 특출난 주인공이 해결책을 발견하고 극복해가는 구조가 추리소설스럽기도 무협지스럽기도 한 면이 있지만, 그게 재미의 반을 넘는 것 같다.<br>
+<!-- -->극적으로 바뀌는 상황 속 인류라는 군집에 대한 사고실험같기도 한 서사들은 은하영웅전설을 생각나게도 한다.<br>
+<!-- -->하지만 끝으로 갈 수록 캐릭터 매력과 당위성과 개연성이 내 기준에 맞질 않아져서...
+끝까지 마저 읽을지는 잘 모르겠다.</p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="소설" term="소설"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지 이터널]]></title>
         <id>https://blog.jeonyongtae.com/blog/20250811-지-이터널</id>
