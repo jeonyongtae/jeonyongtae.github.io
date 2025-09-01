@@ -2,16 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.jeonyongtae.com/blog</id>
     <title>흔적 Blog</title>
-    <updated>2025-08-19T23:16:17.000Z</updated>
+    <updated>2025-09-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.jeonyongtae.com/blog"/>
     <subtitle>흔적 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[20250902 긴 생각]]></title>
+        <id>https://blog.jeonyongtae.com/blog/2025/09/02/index</id>
+        <link href="https://blog.jeonyongtae.com/blog/2025/09/02/index"/>
+        <updated>2025-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[해야 하는 일을 하자.]]></summary>
+        <content type="html"><![CDATA[<p>해야 하는 일을 하자.<br>
+<!-- -->하나씩.<br>
+<!-- -->하나씩.  </p><p><img loading="lazy" src="/assets/images/20250815_190511-948a7e4da06f591092745a4bd82938ca.jpg" width="4000" height="3000" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="일상" term="일상"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[삼체3]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20250820-삼체3</id>
-        <link href="https://blog.jeonyongtae.com/blog/20250820-삼체3"/>
-        <updated>2025-08-19T23:16:17.000Z</updated>
+        <id>https://blog.jeonyongtae.com/blog/2025/08/20/삼체3</id>
+        <link href="https://blog.jeonyongtae.com/blog/2025/08/20/삼체3"/>
+        <updated>2025-08-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[삼체3을 읽고 있다.]]></summary>
         <content type="html"><![CDATA[<p>삼체3을 읽고 있다.<br>
 <!-- -->상황설정과 전개가 흥미로워 초중반은 아주 몰입감있게 읽었다.<br>
@@ -27,9 +42,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[지 이터널]]></title>
-        <id>https://blog.jeonyongtae.com/blog/20250811-지-이터널</id>
-        <link href="https://blog.jeonyongtae.com/blog/20250811-지-이터널"/>
-        <updated>2025-08-10T23:41:17.000Z</updated>
+        <id>https://blog.jeonyongtae.com/blog/2025/08/11/지-이터널</id>
+        <link href="https://blog.jeonyongtae.com/blog/2025/08/11/지-이터널"/>
+        <updated>2025-08-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[내가 매우 좋아하는 나이트건담 이벤트를 시작했길래]]></summary>
         <content type="html"><![CDATA[<p>내가 매우 좋아하는 나이트건담 이벤트를 시작했길래
 여기에 시간을 조금 할애하지 않을 수 없었다.
