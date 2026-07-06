@@ -8,19 +8,6 @@
     <subtitle>흔적 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[어세신 크리드 쉐도우즈]]></title>
-        <id>https://blog.jeonyongtae.com/blog/2026/01/19/어세신-크리드-쉐도우즈</id>
-        <link href="https://blog.jeonyongtae.com/blog/2026/01/19/어세신-크리드-쉐도우즈"/>
-        <updated>2026-01-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[왜 끝나는지 잘 모르게 끝나는 점은 전작 오딧세이와 비슷했다.]]></summary>
-        <content type="html"><![CDATA[<p>왜 끝나는지 잘 모르게 끝나는 점은 전작 오딧세이와 비슷했다.  </p><p><img loading="lazy" src="/assets/images/2026-1-9-11-51-0-50f8f933304c1aa21f60bdb645a4cf2c.png" width="2560" height="1600" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="게임" term="게임"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[얼굴]]></title>
         <id>https://blog.jeonyongtae.com/blog/2026/01/19/얼굴</id>
         <link href="https://blog.jeonyongtae.com/blog/2026/01/19/얼굴"/>
@@ -32,6 +19,19 @@
             <uri>https://blog.jeonyongtae.com</uri>
         </author>
         <category label="영화" term="영화"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어세신 크리드 쉐도우즈]]></title>
+        <id>https://blog.jeonyongtae.com/blog/2026/01/19/어세신-크리드-쉐도우즈</id>
+        <link href="https://blog.jeonyongtae.com/blog/2026/01/19/어세신-크리드-쉐도우즈"/>
+        <updated>2026-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[왜 끝나는지 잘 모르게 끝나는 점은 전작 오딧세이와 비슷했다.]]></summary>
+        <content type="html"><![CDATA[<p>왜 끝나는지 잘 모르게 끝나는 점은 전작 오딧세이와 비슷했다.  </p><p><img loading="lazy" src="/assets/images/2026-1-9-11-51-0-50f8f933304c1aa21f60bdb645a4cf2c.png" width="2560" height="1600" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="게임" term="게임"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[20250902 긴 생각]]></title>
