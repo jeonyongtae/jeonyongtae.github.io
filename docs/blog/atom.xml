@@ -8,19 +8,6 @@
     <subtitle>흔적 Blog</subtitle>
     <icon>https://blog.jeonyongtae.com/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[얼굴]]></title>
-        <id>https://blog.jeonyongtae.com/blog/2026/01/19/얼굴</id>
-        <link href="https://blog.jeonyongtae.com/blog/2026/01/19/얼굴"/>
-        <updated>2026-01-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[상징으로 가득 채운 이야기라는 점에서 데스스트랜딩과 비슷하다고 느꼈다.]]></summary>
-        <content type="html"><![CDATA[<p>상징으로 가득 채운 이야기라는 점에서 데스스트랜딩과 비슷하다고 느꼈다.</p><p><img loading="lazy" src="/assets/images/img-e96f86352f210069df2d54e5e072eb06.png" width="1000" height="1432" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>전용태</name>
-            <uri>https://blog.jeonyongtae.com</uri>
-        </author>
-        <category label="영화" term="영화"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어세신 크리드 쉐도우즈]]></title>
         <id>https://blog.jeonyongtae.com/blog/2026/01/19/어세신-크리드-쉐도우즈</id>
         <link href="https://blog.jeonyongtae.com/blog/2026/01/19/어세신-크리드-쉐도우즈"/>
@@ -32,6 +19,19 @@
             <uri>https://blog.jeonyongtae.com</uri>
         </author>
         <category label="게임" term="게임"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼굴]]></title>
+        <id>https://blog.jeonyongtae.com/blog/2026/01/19/얼굴</id>
+        <link href="https://blog.jeonyongtae.com/blog/2026/01/19/얼굴"/>
+        <updated>2026-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[상징으로 가득 채운 이야기라는 점에서 데스스트랜딩과 비슷하다고 느꼈다.]]></summary>
+        <content type="html"><![CDATA[<p>상징으로 가득 채운 이야기라는 점에서 데스스트랜딩과 비슷하다고 느꼈다.</p><p><img loading="lazy" src="/assets/images/img-e96f86352f210069df2d54e5e072eb06.png" width="1000" height="1432" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>전용태</name>
+            <uri>https://blog.jeonyongtae.com</uri>
+        </author>
+        <category label="영화" term="영화"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[20250902 긴 생각]]></title>
